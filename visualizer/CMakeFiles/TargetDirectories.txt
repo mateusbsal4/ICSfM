@@ -1,0 +1,3 @@
+/home/mateus/IC/tcc_sfm-master_2/tcc_sfm-master/visualizer/CMakeFiles/rebuild_cache.dir
+/home/mateus/IC/tcc_sfm-master_2/tcc_sfm-master/visualizer/CMakeFiles/edit_cache.dir
+/home/mateus/IC/tcc_sfm-master_2/tcc_sfm-master/visualizer/CMakeFiles/visualizer.dir
